@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
+import { FileText } from "lucide-react";
 
 const HeroSection = () => {
   return (
@@ -54,6 +55,7 @@ const HeroSection = () => {
             { icon: Github, href: "https://github.com/anirudhr1", label: "GitHub" },
             { icon: Linkedin, href: "https://linkedin.com/in/anirudhr", label: "LinkedIn" },
             { icon: Mail, href: "mailto:anirudhr700@gmail.com", label: "Email" },
+            { icon: FileText, href: "/resume.pdf", label: "Resume" },
           ].map(({ icon: Icon, href, label }) => (
             <a
               key={label}
