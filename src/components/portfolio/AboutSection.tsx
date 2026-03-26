@@ -49,15 +49,17 @@ const AboutSection = () => {
                 <MapPin size={18} className="text-primary" />
                 <span className="text-muted-foreground text-sm">Malappuram, Kerala → Punjab, India</span>
               </div>
-              <p className="text-secondary-foreground leading-relaxed mb-4">
-                I'm a 3rd-year Computer Science student at Lovely Professional University. I work on projects that go beyond assignments — building systems that solve tangible problems, from face and voice-based authentication to structured web applications.
-              </p>
-              <p className="text-secondary-foreground leading-relaxed mb-4">
-                My core interests lie in systems-level programming, security, and understanding how things work under the hood. I've solved 400+ coding challenges across platforms like LeetCode, NeoColab, and CodeTantra.
-              </p>
-              <p className="text-secondary-foreground leading-relaxed">
-                I value clarity in code and honest learning. Every project here reflects real work — no filler, no exaggeration.
-              </p>
+             <p className="text-secondary-foreground leading-relaxed mb-4">
+  I am a Computer Science undergraduate with a strong foundation in Data Structures, Algorithms, and Object-Oriented Programming. I primarily work with languages like Python, C++, and C.
+</p>
+
+<p className="text-secondary-foreground leading-relaxed mb-4">
+  I have a keen interest in cybersecurity, backend systems, and understanding how software works at a deeper level. I enjoy exploring how systems can be secured, identifying vulnerabilities, and building practical solutions around them.
+</p>
+
+<p className="text-secondary-foreground leading-relaxed">
+  I love tackling complex problems and building efficient, reliable software with a focus on security and clean design.
+</p>
             </div>
           </motion.div>
 

@@ -9,20 +9,20 @@ const achievements = [
     description: "Strengthened understanding of time complexity and competitive programming techniques.",
     period: "Feb 2026",
   },
-  {
-    icon: <Flame size={28} />,
-    stat: "150+",
-    label: "C++ Challenges on NeoColab",
-    description: "Enhanced problem-solving accuracy, implementation speed, and mastery of core C++ concepts.",
-    period: "Dec 2024",
-  },
-  {
-    icon: <Trophy size={28} />,
-    stat: "150+",
-    label: "Python Problems on CodeTantra",
-    description: "Improved algorithmic reasoning, practice consistency, and Python application skills.",
-    period: "Dec 2024",
-  },
+  // {
+  //   icon: <Flame size={28} />,
+  //   stat: "150+",
+  //   label: "C++ Challenges on NeoColab",
+  //   description: "Enhanced problem-solving accuracy, implementation speed, and mastery of core C++ concepts.",
+  //   period: "Dec 2024",
+  // },
+  // {
+  //   icon: <Trophy size={28} />,
+  //   stat: "150+",
+  //   label: "Python Problems on CodeTantra",
+  //   description: "Improved algorithmic reasoning, practice consistency, and Python application skills.",
+  //   period: "Dec 2024",
+  // },
 ];
 
 const AchievementsSection = () => {

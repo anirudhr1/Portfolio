@@ -41,9 +41,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed"
         >
-          Computer Science student focused on building real systems — 
-          from biometric authentication to web applications. 
-          Driven by problem-solving and clean implementation.
+        CS Undergraduate — Cybersecurity
         </motion.p>
 
         <motion.div
